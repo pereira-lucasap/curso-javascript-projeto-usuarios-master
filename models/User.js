@@ -83,10 +83,10 @@ class User {
 
         return this._admin;
     }
-    set admin(value){
+    // set admin(value){
 
-        this._admin = value;
-    }
+    //     this._admin = value;
+    // }
     //register
     get register(){
 
